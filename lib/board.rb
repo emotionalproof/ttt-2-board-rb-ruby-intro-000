@@ -1,3 +1,3 @@
 # Define the variable board below.
-board = Array.new(3, " ") {Array.new(" ")}
+board = Array.new(9, " ")
 puts board
